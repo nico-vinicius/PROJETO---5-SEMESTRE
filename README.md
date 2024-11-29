@@ -5,7 +5,7 @@
 Uma solução prática para um problema comum porém complexo.
 
 ### Links úteis
- Link para acessar o video: [Acesse Aqui!]()
+ Link para acessar o video: [https://www.youtube.com/watch?v=E4kgNU3pkoM]()
 
 
 ### Techs
